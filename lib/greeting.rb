@@ -7,5 +7,5 @@ def greeting(name)
   puts "Hello, #{name}!"
 end
 
-greeting = "to be_truthy"
+greeting = 'to be_truthy'
 puts "Hello, #{name}. It's nice to meet you."
